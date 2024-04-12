@@ -1,0 +1,50 @@
+body{
+    position: relative;
+    background-color: tan;
+}
+label {
+    position: sticky;
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 45px;
+}
+select  {
+    margin-top: 200px;
+    font-size: 25px;
+    background-color: olivedrab;
+}
+input {
+    font-size: 20px;
+}
+button {
+    position: relative;
+    margin-top: 50px;
+    margin-left: 820px;
+    font-size: 25px;
+    background-color: green;
+}
+#result h1 {
+    border: 6px solid black;
+    margin-top: 100px;
+    margin-left: 820px;
+    margin-right: 850px;
+}
+#title {
+    margin-left: 600px;
+    font-size: 80px;
+}
+#img1 {
+    position: absolute;
+    margin-bottom: 400px;
+    width: 350px;
+    height: 300px;
+    border-radius: 80%;
+}
+#img2 {
+    position: absolute;
+    margin-left: 1550px;
+    margin-bottom: 400px;
+    width: 350px;
+    height: 300px;
+    border-radius: 80%;
+}
